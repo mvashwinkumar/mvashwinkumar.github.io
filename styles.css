@@ -77,6 +77,10 @@
   left: 15%;
 }
 
+.portfolio-navigation-drawer .is-active {
+  background-color: #e0e0e0;
+}
+
 .portfolio-card .mdl-card__title {
   padding-bottom: 0;
 }
